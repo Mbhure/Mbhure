@@ -1,3 +1,23 @@
+<h1 align="center">Hi 👋, I'm Manish Bhure</h1>
+<h3 align="center">A passionate Fullstack developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mbhure&label=Profile%20views&color=0e75b6&style=flat" alt="mbhure" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mbhure" alt="mbhure" /></a> </p>
+
+- 🌱 I’m currently learning **JAVA Script,DSA,GTML,CSS,React,JAVA**
+
+- 💬 Ask me about **NODE.js,HTML,CSS,JAVA Script.**
+
+- 📫 How to reach me **Bhurem56@gmail.com**
+
+- 📄 Know about my experiences  [Resume](https://drive.google.com/file/d/1f8AyH9V5jZtikWkybhyAnnRXywVqdVHy/view?usp=share_link)
+
+- ⚡ Fun fact **I love writing and Gardening**
+
+<h3 align="left">Connect with me:</h3>
+
+<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/its_mani6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manish-bhure) 
