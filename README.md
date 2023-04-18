@@ -1,4 +1,5 @@
-![logo](https://github.com/Mbhure/Mbhure/blob/main/Manish.png)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDSCwV-5_pAvbqT6ft9lhYa0R0et_5jFpVbAAIaT5d&s)
+
 <h1 align="center">Hi 👋, I'm Manish Bhure</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
 
