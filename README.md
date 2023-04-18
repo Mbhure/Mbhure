@@ -1,4 +1,4 @@
-![logo] (https://github.com/Mbhure/Mbhure/blob/main/Manish.png)
+![logo](https://github.com/Mbhure/Mbhure/blob/main/Manish.png)
 
 <h1 align="center">Hi 👋, I'm Manish Bhure</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
