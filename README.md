@@ -1,4 +1,4 @@
-![logo]("https://github.com/Mbhure/Mbhure/blob/main/Manish.png")
+![logo](https://www.canva.com/design/DAFgci6TvRQ/nNtENix30OVzvU1j5jbz1g/edit?utm_content=DAFgci6TvRQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 <h1 align="center">Hi 👋, I'm Manish Bhure</h1>
 <h3 align="center">A passionate Fullstack developer from India</h3>
