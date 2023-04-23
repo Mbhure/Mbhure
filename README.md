@@ -1,5 +1,5 @@
 <div align="center">
- <img src="C:\Users\my\OneDrive\Desktop\Mbhure\Manish.png" />
+ <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Manish Bhure</h1>
