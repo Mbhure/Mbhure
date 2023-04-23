@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priti</h1>
+<h1 align="center">Hi 👋, I'm Manish Bhure</h1>
 <br/>
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Back+end+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
