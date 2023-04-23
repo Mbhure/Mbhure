@@ -1,3 +1,7 @@
+<div align="center">
+ <img src="" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Manish Bhure</h1>
 <br/>
 <div align="center">
