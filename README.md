@@ -5,7 +5,7 @@
 </div>
 <h2>- Full Stack Web Developer skilled in Frontend.</h2>
 <h2>- I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and make use of them to solve real-life problems </h2>
-<img align="right" alt "Coding" width="400" src="">
+<img align="right" alt "Coding" width="400" src="https://github.com/Mbhure/Mbhure/blob/main/lohos.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Mbhure&label=Profile%20views&color=0e75b6&style=flat" alt="Mbhure" /> </p>
